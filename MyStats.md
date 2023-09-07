@@ -35,4 +35,20 @@ If you're looking to stay in shape, enhance your mobility, and build teamwork, c
 > The true sign of intelligence is not knowledge but imagination.
 > - *Dr. A.P.J. Abdul Kalam*
 
+---
+## Code Fencing with stack overflow refference
+
+> **Question on Stack Overflow**:
+[how to create a responsive menu(Hamburger menu) [closed]?](https://stackoverflow.com/questions/36310655/how-to-create-a-responsive-menuhamburger-menu)
+
+**Stack Overflow** : <https://stackoverflow.com/questions/36310655/how-to-create-a-responsive-menuhamburger-menu>
+
+```svg
+<svg viewBox="0 0 100 80" width="40" height="40">
+  <rect width="100" height="20"></rect>
+  <rect y="30" width="100" height="20"></rect>
+  <rect y="60" width="100" height="20"></rect>
+</svg>
+```
+<https://css-tricks.com/snippets/svg/svg-hamburger-menu/>
 
