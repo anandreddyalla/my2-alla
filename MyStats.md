@@ -25,3 +25,14 @@ If you're looking to stay in shape, enhance your mobility, and build teamwork, c
 | Badminton   | - Ideal for outdoor activity and maintaining fitness. | 6-8 hours    |
 | Swimming    | - Low-impact exercise engaging the entire body.     | 2-5 hours    |
 
+---
+
+## Quotes by Indian Scientists
+
+> Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world.
+> - *Louis Pasteur*
+
+> The true sign of intelligence is not knowledge but imagination.
+> - *Dr. A.P.J. Abdul Kalam*
+
+
