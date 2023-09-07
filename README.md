@@ -16,5 +16,14 @@ Here are some of my favorite activities which enjoy I at Chennai Beach
 
 3. **Attend a Traditional Dance or Music Performance:** Chennai is the "Cultural Capital of South India."
 
+### Food Options in Chennai:
+
+- **Chennai Biryani:** A flavorful rice dish cooked with aromatic spices, tender meat (or vegetables), and fragrant saffron.
+- **Masala Dosa:** A crispy South Indian pancake filled with a spiced potato filling and served with coconut chutney and sambar.
+- **Idli and Sambar:** Steamed rice cakes served with a flavorful lentil-based soup (sambar) and coconut chutney.
+- **Chettinad Chicken Curry:** A spicy and aromatic chicken curry with roots in the Chettinad region of Tamil Nadu.
+- **Filter Coffee:** Enjoy a strong and aromatic cup of South Indian filter coffee, typically served with milk and sugar.
+- **Street Food Snacks:** Explore a variety of street food options like pani puri, bhel puri, and vada pav at local stalls.
+
 
 
