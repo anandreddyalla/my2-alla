@@ -12,6 +12,8 @@ I have a diverse range of interests and hobbies that make up who I am. Here are 
 
 ![Ananda](Anand_Pic.jpg)
 
+---
+
 ## Stay Fit, Improve Mobility, and Bond as a Team
 
 If you're looking to stay in shape, enhance your mobility, and build teamwork, consider incorporating these sports into your weekly routine:
