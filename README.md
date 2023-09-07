@@ -25,5 +25,6 @@ Here are some of my favorite activities which enjoy I at Chennai Beach
 - **Filter Coffee:** Enjoy a strong and aromatic cup of South Indian filter coffee, typically served with milk and sugar.
 - **Street Food Snacks:** Explore a variety of street food options like pani puri, bhel puri, and vada pav at local stalls.
 
+[Link to MyStatus](MyStats.md)
 
 
